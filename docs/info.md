@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is a full adder that uses 1 NOR gate, 2 AND gates, and 1 OR gate
 
 ## How to test
 
-Explain how to use your project
+I tested the project using the Wokwi simulation
 
 ## External hardware
 
