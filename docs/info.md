@@ -13,7 +13,7 @@ It is a full adder that uses 1 NOR gate, 2 AND gates, and 1 OR gate
 
 ## How to test
 
-I tested the project using the Wokwi simulation
+I tested the project using the Wokwi simulation on my own account
 
 ## External hardware
 
